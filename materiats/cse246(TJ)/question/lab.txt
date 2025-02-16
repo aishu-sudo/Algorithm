@@ -1,0 +1,4 @@
+Lab 3 - Huffman
+Lab 4- Dynamic programming
+lab 5 - rock climbing
+lab 6 -  meerge and quic sort
